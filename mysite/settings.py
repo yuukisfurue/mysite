@@ -77,8 +77,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'jangoboard',
-        'USER': 'yuukifurue',
-        'PASSWORD': '012tU(qr9scretXX@39988H@ijo',
+        'USER': 'user',
+        'PASSWORD': 'pass',
         'HOST': 'localhost',
         'PORT': '3306',
     }
